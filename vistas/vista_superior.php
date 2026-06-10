@@ -21,6 +21,15 @@
                 <a href="./peliculas.php">Peliculas</a>
                 <a href="./series.php">Series</a>
                 <a href="./novedades.php">Novedades</a>
+                </div>
+
+                <div class="menu-container">
+                    <div class="hamburger-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                 
               </div>
            </menu>
         </header>
