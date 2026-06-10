@@ -11,7 +11,7 @@
     <header>
        <menu>
            <div class="menu-izquierda">
-               <a href="./index.php">
+                <a href="./index.php">
                      <img src="img/cine.png" alt="Logo">  
                </a>
               
